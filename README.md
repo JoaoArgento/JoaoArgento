@@ -1,16 +1,20 @@
-## Hi there 👋
+# João Pedro Argento Garcia
 
-<!--
-**JoaoArgento/JoaoArgento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor full-stack com foco em backend, utilizando C# e .NET.
+Também trabalho com Angular, RxJS e bancos de dados relacionais.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tenho experiência com desenvolvimento de aplicações e APIs.
+- Atuei por quatro anos como instrutor de programação.
+- Estou aprofundando meus conhecimentos em arquitetura de software
+  e modelagem de domínio.
+
+## Tecnologias
+
+C# · .NET · Angular · TypeScript · RxJS
+PostgreSQL · SQL Server · Docker · Git
+
+## Contato
+
+[LinkedIn](URL_DO_LINKEDIN) · [Portfólio](URL_DO_PORTFOLIO)
