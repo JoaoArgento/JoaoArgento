@@ -1,20 +1,20 @@
-# João Pedro Argento Garcia
+## João Pedro Argento Garcia
 
 Desenvolvedor full-stack com foco em backend, utilizando C# e .NET.
-Também trabalho com Angular, RxJS e bancos de dados relacionais.
+Também trabalho com Angular, Ionic, RxJS e banco de dados relacionais como PostgreSQL
+
 
 ## Sobre mim
 
-- Tenho experiência com desenvolvimento de aplicações e APIs.
-- Atuei por quatro anos como instrutor de programação.
-- Estou aprofundando meus conhecimentos em arquitetura de software
-  e modelagem de domínio.
+- Tenho experiência com desenvolvimento de aplicações e APIs
+- Atuei por quatro anos como instrutor de programação
+- Estou aprofundando meus conhecimentos em arquitetura de software e modelagem de domínio
 
-## Tecnologias
+## Tecnologias 
 
 C# · .NET · Angular · TypeScript · RxJS
 PostgreSQL · SQL Server · Docker · Git
 
-## Contato
+## Contato 
 
 [LinkedIn](URL_DO_LINKEDIN) · [Portfólio](URL_DO_PORTFOLIO)
